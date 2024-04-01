@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="error_loading_station_details">Error loading station details</string>
+    <string name="error_loading_stations">Error loading stations</string>
+    <string name="station_image">station image</string>
+    <string name="play_button">play button</string>
+    <string name="station_name">Station Name</string>
+</resources>
